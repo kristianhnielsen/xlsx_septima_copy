@@ -1,8 +1,5 @@
 import logging
-import polars as pl
-from datetime import datetime, date
 import os
-import pandas as pd
 from dotenv import load_dotenv
 import shutil
 from pathlib import Path
